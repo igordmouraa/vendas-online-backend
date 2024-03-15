@@ -18,3 +18,5 @@ export class CityEntity{
     @UpdateDateColumn({name: 'updated_at'})
     updatedAt: Date;
 }
+
+//fix commit title
